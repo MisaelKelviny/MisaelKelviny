@@ -1,6 +1,6 @@
 <h1>Hello There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
-<p>My name is Misael, I'm from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and I a frontend developer, work with Mobile, and Web. With great powers come great responsibilities 🕷 is my favorite phrase, also I like a lot of design, UX and UI are one of my learning journey nowdays. Business, administration and innovation are one of my favorite hobbies, I want to do more for the world and create a better place to live. 👽</p>
+<p>My name is Misael, I'm from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and I'm a frontend developer, work with Mobile, and Web. With great powers come great responsibilities 🕷 is my favorite phrase, also I like a lot of design, UX and UI are one of my learning journey nowdays. Business, administration and innovation are one of my favorite hobbies, I want to do more for the world and create a better place to live. 👽</p>
 
 <img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/UT5C4hCvmlSzJ7QeQy/giphy.gif" />
 
