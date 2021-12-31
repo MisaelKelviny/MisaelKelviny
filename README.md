@@ -65,6 +65,5 @@
 <p>
 <a href="mailto:misaelkelviny@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
 <a href="https://www.instagram.com/kelvinymisael/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" /></a>
-<a href="https://www.facebook.com/misaelkelviny32"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=orange" /></a> 
 <a href="https://www.linkedin.com/in/misael-kelviny/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
 </p>
