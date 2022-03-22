@@ -1,69 +1,59 @@
-<h1>Hello There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h4 align="center"><samp>Hello There 👋🏼 I'm Misael from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and I'm a Software Engineer working with React doing great things with web technologies. My passion is to work with front-end bringing more accesibility, beauty and made it easy to users.👽</samp></h4>
 
-<p>My name is Misael, I'm from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and I'm a frontend developer, work with Mobile, and Web. With great powers come great responsibilities 🕷 is my favorite phrase, also I like a lot of design, UX and UI are one of my learning journey nowdays. Business, administration and innovation are one of my favorite hobbies, I want to do more for the world and create a better place to live. 👽</p>
+<h4 align="center"><samp>I'm currently working on a Brazilian company <strong>Iteris - a software company</strong> </samp></h4>
 
-<img align="right" height="400" alt="GIF" src="https://media.giphy.com/media/UT5C4hCvmlSzJ7QeQy/giphy.gif" />
+</br> 
 
-<h3>About me</h3>
-<ul>
-  <li>🌟 Fields I like the most: WEB 🖥, Mobile📱</li>
-  <li>⛳ I always like to learn new things</li>
-  <li>🐱‍👤 Love Cat's</li>
-  <li>💫 The universe enchant me</li>
-</ul>
+<h3 align="center">🛠 Technologies and Tools I use:</h3>
 
-<h3>Recent personal projects</h3>
-<ul>
-  <li>🍺<a href="https://github.com/MisaelKelviny/DoktorApp">DoktorApp - IONIC3 PWA web app.</a></li>
-  <li>🩺<a href="https://github.com/MisaelKelviny/EnfermagemApp">EnfermagemApp - IONIC3 PWA app to learning.</a></li>
-  <li>😎<a href="https://github.com/MisaelKelviny/myPortfolio">Portfolio - My portfolio</a></li>
-  <li>💻<a href="https://github.com/MisaelKelviny/SIwebsite">Sistemas Site - App build to Information System course.</a></li>
-</ul>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react" /> 
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-ffffff?style=for-the-badge&logo=angular&logoColor=de2e31" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" /> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" /> 
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=69419b" />
+  <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" /> 
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23F7DF1C?style=for-the-badge&logo=vite&logoColor=007ACC" /> 
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-%231a202c?style=for-the-badge&logo=redux&logoColor=ffffff" /> 
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-%23646CFF?style=for-the-badge&logo=graphql&logoColor=ffffff" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=007ACC" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00264d" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Nextjs-%231a202c?style=for-the-badge&logo=nextdotjs&logoColor=41ea07" />
+  <img alt="EsLint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint" />
+  <img alt="Jest" src="https://img.shields.io/badge/-JEST-ffffff?style=for-the-badge&logo=jest&logoColor=de2e31" />
+  <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-%23646CFF?style=for-the-badge&logo=junit5&logoColor=ffffff" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=java&logoColor=de2e31" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-00264d?style=for-the-badge&logo=python&logoColor=f6c500" />
+  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-%23282C34?style=for-the-badge&logo=react" /> 
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-ffffff?style=for-the-badge&logo=ionic" /> 
+  <img alt="Android" src="https://img.shields.io/badge/-Android-1a1a1a?style=for-the-badge&logo=android&logoColor=41ea07" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=#e84e32" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=00264d" /> 
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=ffcb2f" />   
+</p>
+  
+</br>
+
+<h3 align="center">📱 Feel free to contact me on</h3>
+<p align="center">
+  <a href="mailto:misaelkelviny@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
+  </a>
+  <a href="https://www.instagram.com/kelvinymisael/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" />
+  </a>
+  <a href="https://www.linkedin.com/in/misael-kelviny/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" />
+  </a>
+  <a href="https://www.behance.net/misaelkelviny">
+    <img alt="Behance" src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=orange" />
+  </a>
+</p>
 
 </br>
 
-<h3>Some tools I use</h3>
-<h5>Web</h5>
-<p>
-<img alt="React" src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=41ea07" /> 
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-1a1a1a?style=flat-square&logo=angular&logoColor=41ea07" /> 
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=41ea07" /> 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=41ea07" /> 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=41ea07" /> 
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=41ea07" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=41ea07" />
-</p>
-<h5>Mobile</h5>
-<p>
-<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-1a1a1a?style=flat-square&logo=react&logoColor=41ea07" /> 
-<img alt="Ionic" src="https://img.shields.io/badge/-Ionic-1a1a1a?style=flat-square&logo=ionic&logoColor=41ea07" /> 
-<img alt="Android" src="https://img.shields.io/badge/-Android-1a1a1a?style=flat-square&logo=android&logoColor=41ea07" /> 
-</p>
-<h5>Desktop</h5>
-<p>
-<img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=41ea07" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=41ea07" /> 
-<img alt="Csharp" src="https://img.shields.io/badge/-Csharp-1a1a1a?style=flat-square&logo=c-sharp&logoColor=41ea07" />   
-</p>
-<h5>Skills</h5>
-<p>
-<img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=41ea07" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=41ea07" /> 
-<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=41ea07" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=41ea07" /> 
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=41ea07" />   
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelKelviny&layout=compact)](https://github.com/MisaelKelviny/github-readme-stats)
-![MisaelKelviny github stats](https://github-readme-stats.vercel.app/api?username=MisaelKelviny&bg_color=30,343a40,010101&show_icons=true&title_color=41ea07&text_color=41ea07)
-
-<p>
-<img align="left" height="400" alt="GIF" src="https://media.giphy.com/media/26FPp1PpHSr8wVZS0/giphy.gif" />
-</p>
-
-<h3>Feel free to contact me on</h3>
-<p>
-<a href="mailto:misaelkelviny@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
-<a href="https://www.instagram.com/kelvinymisael/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" /></a>
-<a href="https://www.linkedin.com/in/misael-kelviny/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
-</p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MisaelKelviny&bg_color=30,343a40,010101&show_icons=true&title_color=41ea07&text_color=41ea07" align="center" /></div>
