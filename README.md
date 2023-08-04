@@ -17,8 +17,7 @@
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" /> 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23F7DF1C?style=for-the-badge&logo=vite&logoColor=007ACC" /> 
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-%231a202c?style=for-the-badge&logo=redux&logoColor=ffffff" /> 
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-%23646CFF?style=for-the-badge&logo=graphql&logoColor=ffffff" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-%231a202c?style=for-the-badge&logo=redux&logoColor=ffffff" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=007ACC" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00264d" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000" />
@@ -28,9 +27,6 @@
   <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-%23646CFF?style=for-the-badge&logo=junit5&logoColor=ffffff" />
   <img alt="java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=java&logoColor=de2e31" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-00264d?style=for-the-badge&logo=python&logoColor=f6c500" />
-  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-%23282C34?style=for-the-badge&logo=react" /> 
-  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-ffffff?style=for-the-badge&logo=ionic" /> 
-  <img alt="Android" src="https://img.shields.io/badge/-Android-1a1a1a?style=for-the-badge&logo=android&logoColor=41ea07" />
   <img alt="git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=#e84e32" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=00264d" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=ffcb2f" />   
