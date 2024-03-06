@@ -13,7 +13,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" /> 
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=69419b" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" /> 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23F7DF1C?style=for-the-badge&logo=vite&logoColor=007ACC" /> 
@@ -22,7 +21,6 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00264d" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000000" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Nextjs-%231a202c?style=for-the-badge&logo=nextdotjs&logoColor=41ea07" />
-  <img alt="EsLint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint" />
   <img alt="Jest" src="https://img.shields.io/badge/-JEST-ffffff?style=for-the-badge&logo=jest&logoColor=de2e31" />
   <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-%23646CFF?style=for-the-badge&logo=junit5&logoColor=ffffff" />
   <img alt="java" src="https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=java&logoColor=de2e31" /> 
