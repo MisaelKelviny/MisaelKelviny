@@ -11,8 +11,6 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-ffffff?style=for-the-badge&logo=angular&logoColor=de2e31" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" /> 
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" /> 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23F7DF1C?style=for-the-badge&logo=vite&logoColor=007ACC" /> 
@@ -34,11 +32,8 @@
 
 <h3 align="center">📱 Feel free to contact me on</h3>
 <p align="center">
-  <a href="mailto:misaelkelviny@hotmail.com">
+  <a href="mailto:misaelkelviny@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
-  </a>
-  <a href="https://www.instagram.com/kelvinymisael/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" />
   </a>
   <a href="https://www.linkedin.com/in/misael-kelviny/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" />
