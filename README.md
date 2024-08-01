@@ -38,9 +38,6 @@
   <a href="https://www.linkedin.com/in/misael-kelviny/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" />
   </a>
-  <a href="https://www.behance.net/misaelkelviny">
-    <img alt="Behance" src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=orange" />
-  </a>
 </p>
 
 </br>
