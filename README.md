@@ -1,6 +1,6 @@
 <h4 align="center"><samp>Hello There 👋🏼 I'm Misael from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and I'm a Software Engineer working with React doing great things with web technologies. My passion is to work with front-end bringing more accesibility, beauty and made it easy to users.👽</samp></h4>
 
-<h4 align="center"><samp>I'm currently working on a Brazilian company <strong>Iteris - a software company</strong> </samp></h4>
+<h4 align="center"><samp>I'm currently working on a argentinian company <strong>Globant</strong> </samp></h4>
 
 </br> 
 
